@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build
+build/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+.vercel
+vercel.json
