@@ -2,6 +2,10 @@
 
 Official Model Context Protocol (MCP) server for [FastAlert](https://fastalert.now). This server allows AI agents (like Claude, ChatGPT, and Cursor) to list of your channels and send notifications directly through the FastAlert API.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/fastalertnow-mcp-server).
+
 ## Features
 
 - **Channel Discovery**: List all of your channels with optional name filtering.
